@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <nav className="container">
-        <div className="logo"><img src="/images/brand_logo.png" alt="" /></div>
+        <div className="logo"><img src="/images/brand_logo.png" alt="Logo" /></div>
 
         <ul>
           <li href="#">Menu</li>
